@@ -1,4 +1,4 @@
-# UNP-GROUP-10-REGRESSION
+# UNP-GROUP-10-REGRESSION 
 Completed this project as a part of my Data Science & Machine Learning Internship with United Network of Professionals (UNP)
 Key Highlights:
 > Studied & Analyzed the Bike Users Prediction in the city dataset by applying Machine Learning models.
