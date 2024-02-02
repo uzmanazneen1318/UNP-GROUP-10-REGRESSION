@@ -5,3 +5,6 @@ Key Highlights:
 > Performed various Exploratory Data Analysis to understand the dataset and compare the variables.
 > Experimented with various ML algorithms like :Linear Regression,Neural Networks,Bagging and Boosting.
 > Compared the results to get the best Regression Model.
+
+COLAB NOTEBOOK link:https://colab.research.google.com/drive/1J2_oi1VtzrdPIEI_RC4otXUcMTrHWRO0?usp=sharing
+PROJECT PRESENTATION link: https://1drv.ms/p/s!AtwEimPMZ-VHnUlJdmX07gOPWy3r?e=jnWDuf
