@@ -7,3 +7,4 @@ Key Highlights:
 > Compared the results to get the best Regression Model.
 
 COLAB NOTEBOOK link:https://colab.research.google.com/drive/1J2_oi1VtzrdPIEI_RC4otXUcMTrHWRO0?usp=sharing
+PROJECT PRESENTATION Link: https://1drv.ms/p/s!AtwEimPMZ-VHni3Pn9qYP2jmJgtI?e=rkGdtI
